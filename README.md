@@ -22,4 +22,4 @@ A complete end-to-end DevOps project that deploys a Flask web application to AWS
 - Cluster provisioned with Terraform (using EKS module)
 
 ## 👨‍💻 Author
-[Shaik Arifulla](https://github.com/ARIFULLALAB01/)
+[Vishnu Polisetti](https://github.com/pvcrao/pvcrao)
